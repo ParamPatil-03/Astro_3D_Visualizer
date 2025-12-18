@@ -22,6 +22,7 @@ A real-time 3D simulation of the solar system built with Python. This applicatio
 *   `numpy`
 *   `Pillow` (PIL)
 *   `tkinter` (usually included with Python)
+*   Google's Antigravity was also used to create the 3D version of this model from the 2D version
 
 ## Installation
 
